@@ -1,2 +1,2 @@
 # C-programming
-This file contains questions from school
+This file contains C-programming questions from school
