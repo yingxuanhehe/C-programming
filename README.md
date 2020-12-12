@@ -1,2 +1,2 @@
 # C-programming
-This file contains C-programming questions from school
+Contains C-programming language questions (LAB and TUTORIALS) from school
