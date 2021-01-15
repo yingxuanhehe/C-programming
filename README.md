@@ -1,2 +1,2 @@
-# C-programming Year 1 Sem 1
+# C-programming 
 Contains C-programming language questions (LAB and TUTORIALS) from school
